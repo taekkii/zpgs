@@ -1,0 +1,13 @@
+glfw
+imgui
+PyOpenGL
+PyOpenGL_accelerate
+lpips
+python-optix
+open3d
+cuda-python
+imageio
+imageio[ffmpeg]
+opencv-python-headless
+joblib
+submodules/simple-knn

@@ -1,6 +1,6 @@
 <p align="center">
 
-  <h1 align="center">RayGauss: Volumetric Gaussian-Based Ray Casting for Photorealistic Novel View Synthesis</h1>
+  <h1 align="center">ZeroPopGS (zpgs) </h1>
   <p align="center">
     <a href="https://www.linkedin.com/in/hugo-blanc-a2b46016a/">Hugo Blanc</a>
     ·
@@ -9,23 +9,12 @@
     <a href="https://scholar.google.fr/citations?user=3eO15d0AAAAJ&hl=fr">Alexis Paljic</a>
 
   </p>
-  <h2 align="center">WACV 2025</h2>
 
   <h3 align="center"><a href="https://drive.google.com/file/d/1qbJjbScbUJOKoYc0iLhk1NE7rtcHp8lH/view?usp=sharing">Paper</a> | <a href="https://arxiv.org/pdf/2408.03356">arXiv</a> | <a href="https://raygauss.github.io/">Project Page</a>  | <a href="https://drive.google.com/file/d/1E0_Tg2QeMx2kyohPhfRtfV656oQFQ2Kv/view?usp=sharing">Blender Models</a>
   <div align="center"></div>
 </p>
 
 
-<p align="center">
-  <a href="">
-    <img src="./media/Dex-NeRF_RayGauss_v2.gif" alt="Logo" width="95%">
-  </a>
-</p>
-
-<p align="center">
-We present an enhanced differentiable ray-casting algorithm for rendering Gaussians with scene features, enabling efficient 3D scene learning from images.
-</p>
-<br>
 
 ## Hardware Requirements
   - CUDA-ready GPU
