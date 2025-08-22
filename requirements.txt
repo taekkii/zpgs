@@ -2,6 +2,8 @@ glfw
 imgui
 PyOpenGL
 PyOpenGL_accelerate
+omegaconf
+matplotlib
 lpips
 python-optix
 open3d
